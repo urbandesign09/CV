@@ -10,15 +10,15 @@ Research and collaboration are essential to my work. I welcome critical feedback
 
 I am always finding new ways to conceptualize problems and ask better questions.
 
-## Experience:
-***
+## Experience
+
 ## Licensed Architect (2016-2020)
 - BIM Lead for the Rockefeller Center for Creative Arts
 - Project Architect for major coworking startup
 - Urban Designer for 500k mixed-use development
 
 ## Technical Skills:
-***
+
 ### Languages:
 - Javascript
 - Python
