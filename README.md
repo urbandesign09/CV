@@ -30,7 +30,7 @@ I am always finding new ways to conceptualize problems and ask better questions.
 - React JS
 - Bootstrap
 
-### Design:
+### Design & Prototyping: 
 - Figma
 - Sketch
 - Photoshop
