@@ -1,10 +1,10 @@
 # CV
 
-Designer and ex-architect bridging the gap between physical and digital environments.
+Designer and ex-architect (buildings) bridging the gap between physical and digital environments.
 
 # Edbert Cheng
 
-I am an aspiring front-end developer and designer passionate about creating human-centered experiences, spanning both physical and digital realms. 
+I am a front-end developer and designer passionate about creating human-centered experiences, spanning both physical and digital realms. 
 
 Research and collaboration are essential to my work. I welcome critical feedback and value open communications in a team environment.
 
