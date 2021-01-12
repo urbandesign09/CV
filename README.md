@@ -4,12 +4,12 @@ Designer and ex-architect (buildings) bridging the gap between physical and digi
 
 # Edbert Cheng
 
-I am a front-end developer and designer passionate about creating human-centered experiences, spanning both physical and digital realms. I started my coding journey in the summer of 2020, during the height of the pandemic, when I began to pursue certifications on freeCodeCamp. I am always finding new ways to conceptualize problems and ask better questions. You can find my work on my personal website, www.edbertcheng.com.
+I am a front-end developer and designer passionate about creating human-centered experiences, spanning both physical and digital realms. I started my coding journey in the summer of 2020, during the height of the pandemic, when I began to pursue certifications on freeCodeCamp. I am always finding new ways to conceptualize problems and ask better questions. You can find my creative design work on my personal website, www.edbertcheng.com.
 
 ## Experience
 
 ## Licensed Architect (2016-2020)
-- BIM Lead and Designer for the Rockefeller Center for Creative Arts, Tarrytown, NY
+- BIM Lead and Architectural Designer for the Rockefeller Center for Creative Arts, Tarrytown, NY
 - Project Architect for major coworking space company, Manhattan, NY
 - Urban Designer for 500k mixed-use development, Chelsea, MA
 - Architectural Designer for Brooklyn Boulders Climbing Gyms, Greater Boston Area
