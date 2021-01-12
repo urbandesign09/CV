@@ -4,7 +4,9 @@ Designer and ex-architect (buildings) bridging the gap between physical and digi
 
 # Edbert Cheng
 
-I am a front-end developer and designer passionate about creating human-centered experiences, spanning both physical and digital realms. I started my coding journey in the summer of 2020, during the height of the pandemic, when I began to study front-end development full-time and enroll in freeCodeCamp. I am always finding new ways to conceptualize problems and ask better questions. You can find my creative design work on my personal website, www.edbertcheng.com.
+I am a front-end developer and designer passionate about creating human-centered experiences, spanning both physical and digital realms. 
+
+I started my coding journey in the summer of 2020, during the height of the pandemic, when I began to study front-end development full-time and enroll in freeCodeCamp. I am always finding new ways to conceptualize problems and ask better questions. You can find my creative design work on my personal website, www.edbertcheng.com.
 
 ## Projects
 - Occulus Weather
