@@ -6,6 +6,11 @@ Designer and ex-architect (buildings) bridging the gap between physical and digi
 
 I am a front-end developer and designer passionate about creating human-centered experiences, spanning both physical and digital realms. I started my coding journey in the summer of 2020, during the height of the pandemic, when I began to pursue certifications on freeCodeCamp. I am always finding new ways to conceptualize problems and ask better questions. You can find my creative design work on my personal website, www.edbertcheng.com.
 
+## Projects
+- Occulus Weather
+- Pomodoro Clock
+- Spotify Album Viewer
+
 ## Experience
 
 ## Licensed Architect (2016-2020)
@@ -37,7 +42,6 @@ I am a front-end developer and designer passionate about creating human-centered
 ### Back-End:
 - Express
 - Mongoose
-- MongoDB
 
 ### Design & Prototyping: 
 - Figma
