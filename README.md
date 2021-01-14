@@ -1,6 +1,7 @@
 # CV
 
 Designer and ex-architect (buildings) bridging the gap between physical and digital environments.
+Seeking my first junior designer/developer opportunity in Boston and remotely.
 
 # Edbert Cheng
 
