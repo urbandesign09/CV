@@ -11,7 +11,7 @@ I am a front-end developer and digital designer passionate about creating human-
 I started my coding journey in the summer of 2020, during the height of the pandemic, when I began to study front-end development full-time and enrolled in freeCodeCamp. I am always finding new ways to conceptualize problems and ask better questions. You can find my creative design work on my personal website, www.edbertcheng.com.
 
 ## Projects
-- [Occulus Weather](https://oculus-weather.netlify.app/)
+- [Occulus Weather-App](https://oculus-weather.netlify.app/)
 - [Occulus Weather-Documentation](https://www.edbertcheng.com/oculus-weather.html)
 - [Pomodoro Clock](https://pomodoro-clock-fcc-42.netlify.app/)
 - [Spotify Album Viewer](https://codepen.io/urbandesign09/full/RwWeRmr)
