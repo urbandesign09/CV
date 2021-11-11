@@ -2,7 +2,7 @@
 
 Designer and ex-architect (buildings) bridging the gap between physical and digital environments.
 
-Seeking my first junior designer/front-end developer opportunity in Boston and remotely.
+Seeking front-end dev/deisgn technologist opportunities in Boston and remotely.
 
 # Edbert Cheng
 
